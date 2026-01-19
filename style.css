@@ -180,3 +180,7 @@ body {
     color: var(--cinza-secundario);
     margin-bottom: 16px;
 }
+
+.vermelho{
+    background-color: red;
+}
